@@ -8,7 +8,9 @@ A quad-rotor that can go around in the building and roam around inside it and ma
 The full Report of the Project is attached in the repository.
 
 Blog 1: https://medium.com/cse-468-568-robotic-algorithms/fire-rescue-quad-rotor-4420e11626ff
+
 Blog 2: https://medium.com/@ronaksha/fire-rescue-quad-rotor-part-2-fac0dcc16209
+
 Blog 3: https://medium.com/@ronaksha/fire-rescue-quad-rotor-final-blog-668b039ce002
 
 All the Progress of the Project is well documented into the Medium blogs.
